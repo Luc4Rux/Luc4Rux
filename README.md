@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luc4Rux
-- 👀 I’m interested in Data Marketing & Analytics, sports and cooking.
-- 🌱 I’m currently learning Marketing and its data-driven approach & Python (for now...)
+- 👀 I’m interested in Data, sports and cooking.
+- 🌱 I’m currently learning Python and how to think analitically (for now...)
 - 📫 You can easily reach me @ luca.russello7@gmail.com. Please, in case specify the subject so that I will not throw your mail away!
 
 <!---
